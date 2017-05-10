@@ -1,6 +1,6 @@
 {
   "name": "nepali_numbers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a utility package to display nepali numbers properly",
   "main": "lib/index.js",
   "scripts": {
