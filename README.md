@@ -8,6 +8,6 @@ This is a utility package to display nepali numbers properly
 
 `var nepaliNumbers = require('nepali_numbers');`
 
-`nepaliNumbers.translateNumberToNepaliWords(1000);`
+`nepaliNumbers.translateNumberToNepaliWords(1000);
 
-`//एक हजार रुपैंया`
+//एक हजार रुपैंया`
