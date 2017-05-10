@@ -1,8 +1,8 @@
 {
   "name": "nepali_numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a utility package to display nepali numbers properly",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "compile": "babel --presets es2015,stage-0 -d lib/ src/",
     "prepublish": "npm run compile"
