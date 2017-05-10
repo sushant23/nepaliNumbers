@@ -1,0 +1,30 @@
+{
+  "name": "nepali_numbers",
+  "version": "1.0.0",
+  "description": "This is a utility package to display nepali numbers properly",
+  "main": "index.js",
+  "scripts": {
+    "compile": "babel --presets es2015,stage-0 -d lib/ src/",
+    "prepublish": "npm run compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushant23/nepaliNumbers.git"
+  },
+  "keywords": [
+    "nepali",
+    "numbers"
+  ],
+  "author": "Sushant23",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sushant23/nepaliNumbers/issues"
+  },
+  "homepage": "https://github.com/sushant23/nepaliNumbers#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  },
+  "dependencies": {}
+}
